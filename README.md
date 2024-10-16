@@ -17,7 +17,7 @@
 - [Dependencies](#dependencies)
 - [Usage Instructions](#usage-instructions)
 - [Deployed Application Links](#deployed-application-links)
-- [Contact Information](#contact-information)
+
 
 ---
 
