@@ -23,7 +23,8 @@
 
 ## Introduction
 
-This is a full-stack sports booking application developed for a sports technology company's operations team. The application allows center managers to view and create bookings for various sports facilities, ensuring that there are no double bookings for the same court and time slot.
+This is a full-stack sports booking application developed for a sports technology company's operations team. The application allows users to view and create bookings for various sports facilities, ensuring that there are no double bookings for the same court and time slot. It supports multiple centers, each offering different sports and courts, providing an efficient solution for managing sports bookings.
+
 
 ## Project Overview
 
